@@ -1,2 +1,3 @@
 tryGit1
 try branch master
+try branch branch2
