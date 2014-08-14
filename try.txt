@@ -1,2 +1,8 @@
 tryGit1
+<<<<<<< HEAD
 try branch testing
+=======
+try branch master
+try branch branch2
+>>>>>>> branch2
+/////////////////////////////////////branch2和testing的合并
